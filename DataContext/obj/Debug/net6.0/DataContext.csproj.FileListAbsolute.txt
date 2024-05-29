@@ -1,0 +1,17 @@
+C:\Users\The user\Desktop\FinalProject\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\The user\Desktop\FinalProject\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\The user\Desktop\FinalProject\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\The user\Desktop\FinalProject\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\The user\Desktop\FinalProject\DataContext\bin\Debug\net6.0\MyProject.Repository.dll
+C:\Users\The user\Desktop\FinalProject\DataContext\bin\Debug\net6.0\MyProject.Repository.pdb
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\The user\Desktop\FinalProject\DataContext\obj\Debug\net6.0\ref\DataContext.dll

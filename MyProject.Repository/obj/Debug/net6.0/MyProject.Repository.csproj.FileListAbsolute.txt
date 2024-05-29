@@ -1,0 +1,14 @@
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.deps.json
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.runtimeconfig.json
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.dll
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\bin\Debug\net6.0\MyProject.Repository.pdb
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.AssemblyInfo.cs
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.dll
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\refint\MyProject.Repository.dll
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.pdb
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\MyProject.Repository.genruntimeconfig.cache
+C:\Users\The user\Desktop\FinalProject\MyProject.Repository\obj\Debug\net6.0\ref\MyProject.Repository.dll
